@@ -213,7 +213,7 @@ Akış: `araştırmacı → yazar → sanskrit denetçisi → güvenlik editör�
 - [ ] Mantralar
 - [ ] **Pratik programları:** bağlantıları kullanan hazır seanslar (ör. "Anahata seansı: asanalar + nefes + meditasyon + mantra")
 
-### Aşama 7: Web Sitesi (1–2 hafta, Aşama 2'den sonra başlayabilir)
+### Aşama 7: Web Sitesi (ŞİMDİLİK ERTELENDİ)
 - [ ] Quartz v4 kurulumu
 - [ ] Arama, geri bağlantılar, grafik görünümü
 - [ ] Etiket ve tür sayfaları (ör. "Muladhara ile ilişkili tüm asanalar" otomatik listesi)

@@ -1,29 +1,30 @@
 # İlerleme Takibi
 
-Gece çalışan oturum bu listeyi okuyup sıradaki `[ ]` paketi alır, bitince `[x]` yapar.
+Çalışma 3 ajanla yürür. Ajanlar yalnızca kullanıcının onayıyla başlatılır; her paket bitince kullanıcıya rapor verilir ve sonraki paket onayla başlar.
+Web sitesi şimdilik yok. Ansiklopedi Obsidian'da (ücretsiz) okunur.
 
-## Dalga 1 (paralel ajanlar)
-- [ ] P01 Temel ağ: elementler, çakralar, enerji anatomisi → cakralar/, elementler/, enerji-anatomisi/
-- [ ] P02 Felsefe ve kavramlar → felsefe/
-- [ ] P03 Yoga Sutraları: Samadhi Pada (1.1–1.51) → sutralar/1-samadhi-pada/
-- [ ] P04 Yoga Sutraları: Sadhana Pada (2.1–2.55) → sutralar/2-sadhana-pada/
-- [ ] P05 Yoga Sutraları: Vibhuti Pada (3.1–3.56) → sutralar/3-vibhuti-pada/
-- [ ] P06 Yoga Sutraları: Kaivalya Pada (4.1–4.34) + Yoga Sutraları ana sayfası → sutralar/4-kaivalya-pada/
-- [ ] P07 Asanalar 1 (Tadasana … Balasana) → asanalar/
-- [ ] P08 Asanalar 2 (Marjaryasana … Savasana) → asanalar/
-- [ ] P09 Pranayama, bandhalar, shatkarma → pranayama/, bandha-mudra/
-- [ ] P10 Meditasyon, mudralar, mantralar → meditasyon/, bandha-mudra/, mantralar/
+## Ajan 1: Enerji ve Felsefe
+- [ ] 1A Elementler, çakralar, enerji anatomisi (nadi, vayu, kosha, kundalini)
+- [ ] 1B Felsefe ve kavramlar (8 basamak, yama/niyama, guna, klesha, dosha…)
+- [ ] 1C Ekoller, klasik metinler, kişiler
+- [ ] 1D Sanskritçe–Türkçe sözlük (300+ terim)
 
-## Dalga 2
-- [ ] P11 Ekoller, metinler, kişiler → ekoller/, metinler/, kisiler/
-- [ ] P12 Sanskritçe–Türkçe sözlük (200+ terim) → sozluk/
-- [ ] P13 Pratik programları (her çakra için bir seans, sabah/akşam, başlangıç serisi) → pratik-programlari/
-- [ ] P14 Ana sayfa (icerik/index.md) ve tür dizin sayfaları
-- [ ] P15 Bağlantı denetimi: kırık, tek yönlü ve yetim bağlantıların onarımı
-- [ ] P16 Sanskritçe denetimi ve güvenlik denetimi
-- [ ] P17 Quartz web sitesi kurulumu ve GitHub Actions yayını
+## Ajan 2: Yoga Sutraları ve Klasik Metinler
+- [ ] 2A Samadhi Pada (1.1–1.51)
+- [ ] 2B Sadhana Pada (2.1–2.55)
+- [ ] 2C Vibhuti Pada (3.1–3.56)
+- [ ] 2D Kaivalya Pada (4.1–4.34) + Yoga Sutraları ana sayfası
+- [ ] 2E Hatha Yoga Pradipika (bölüm bölüm)
+- [ ] 2F Gheranda Samhita, Shiva Samhita, Bhagavad Gita'nın yoga bölümleri
 
-## Dalga 3 (genişleme)
-- [ ] P18 Asanalar 3 (50 yeni asana)
-- [ ] P19 Hatha Yoga Pradipika bölüm bölüm özet ve bağlantılar
-- [ ] P20 Eksik maddeler listesinden (kontrol.py) en çok bağlantı alan 50 madde
+## Ajan 3: Uygulama
+- [ ] 3A Asanalar 1–27
+- [ ] 3B Asanalar 28–54
+- [ ] 3C Pranayama, bandhalar, kriyalar
+- [ ] 3D Meditasyon, mudralar, mantralar
+- [ ] 3E 50+ yeni asana
+- [ ] 3F Pratik programları (her çakra için bir seans, sabah/akşam, başlangıç serisi)
+
+## Son kontrol (3 ajan bitince)
+- [ ] Bağlantı denetimi, Sanskritçe denetimi, güvenlik denetimi
+- [ ] Ana sayfa ve dizin sayfaları
